@@ -3,7 +3,7 @@
 Code works in the following sequential order:
 
 1. Data Pre-processing
-2. Statistical analysis with graphs
+2. Statistical analysis with graphs and word-clouds
 3. Sentiment Classification using BERT
 4. Visualisations using Bubble plots
 5. Data was scrapped and gathered courtesy of Twitter API and consolidated by Strelluf,C. (Strelluf, 2022)
