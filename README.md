@@ -8,4 +8,5 @@ Code works in the following sequential order:
 4. Visualisations using Bubble plots
 5. Data was scrapped and gathered courtesy of Twitter API and consolidated by Strelluf,C. (Strelluf, 2022)
 
-Cite as: Banerjee, A., Strelluf, C."Sentiment and Semantic Analysis of NEED-passives in Twitter" Master's Dissertation. University of Warwick.
+- Cite as: Banerjee, A., Strelluf, C."Sentiment and Semantic Analysis of NEED-passives in Twitter" Master's Dissertation. University of Warwick.
+- For access to dataset, e-mail at *c.strelluf@warwick.ac.uk*
