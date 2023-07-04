@@ -1,4 +1,4 @@
-# Semantic-and-Sentiment-Analysis (Twitter)
+# Semantic-and-Sentiment-Analysis of low-frequency linguistics using BERT (Twitter)
 
 Code works in the following sequential order:
 
